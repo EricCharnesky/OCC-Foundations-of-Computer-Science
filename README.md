@@ -1,6 +1,6 @@
 # 2027-2028 Catalog Change Prosoal
 
-New [Computer Information Systems - Foundations of Computer Science - Associate of Science](CIS.FCS.AS.md)
+New [Computer Information Systems - Foundations of Computer Science - Associate of Science](CIS.FCS.ASC.md)
 
 New [Computer Information Systems - Foundations of Computer Science - Certificate](CIS.FCS.CT.md)
 
