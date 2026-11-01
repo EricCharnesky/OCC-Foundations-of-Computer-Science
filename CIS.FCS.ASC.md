@@ -24,7 +24,7 @@ Students must meet the requirements set by the institution to which they plan on
 | Data Structures | 4 | CIS 2390 - Advanced Data Structures and Algorithms Analysis |
 | Computer Organization | 4 | CIS 2564 - Computer Organization, Architecture, and Assembly Language |
 | Discrete Mathematics | 4 | CIS 2241 - Discrete Structures |
-| Calculus I | 4 | MAT 1730 - Calc 1 ( requires placement into or pre-requsite math courses ) |
+| Calculus I | 4 | MAT 1730 - Calc 1 ( requires placement into or prerequsite math courses ) |
 | Calculus II | 4 | MAT 1740 - Calc 2 |
 | Linear Algebra | 4 | MAT 2880 - Linear Algebra |
 | Statistics (Calc-based) | 4 | MAT 2600 - Statistics for Engineers and Scientists |
@@ -54,7 +54,7 @@ Students must meet the requirements set by the institution to which they plan on
 | Course | Credits |
 |---------|---------:|
 | ENG 1510 - Composition I | 3 |
-| MAT 1730 - Calculus I  ( requires placement into or pre-requsite math courses ) | 4 |
+| MAT 1730 - Calculus I  ( requires placement into or prerequsite math courses ) | 4 |
 | Natural Science Elective (Non-Physics) | 3-4 |
 | Humanities/Fine Arts Elective #1 | 3 |
 
